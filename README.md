@@ -19,12 +19,14 @@ The purpose of this project is to explore the homeless population by state datas
 * Annual homeless population count by state.
 * The collected data includes year 2010 through 2019.
 
-### Methods used: 
+### Tools and Methods used: 
 * Web-scraping
 * ETL
 * Regular Expression(RegEx) 
 * Javascript
+* Python
 * HTML/CSS
+* D3
 
 ### Website Link:
 https://mengye22.github.io/US-homelessness/master/templates/index.html 
